@@ -1,3 +1,4 @@
+from sys import argv
 from bottle import *
 
 
@@ -17,4 +18,4 @@ def send_js(filename):
 def server_static(filename):
     return static_file(filename, root="images")
 
-run(host="localhost", port="8080", debug=True)
+run(host='0.0.0.0', port=argv[1])
