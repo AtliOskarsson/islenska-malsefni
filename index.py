@@ -6,6 +6,14 @@ from bottle import *
 def index():
     return template("index.tpl")
 
+@route("/")
+def generic():
+    return template("generic.tpl")
+
+@route("/")
+def elements():
+    return template("elements.tpl")
+
 @route('/css/<filename:re:.*\.css>')
 def send_css(filename):
     return static_file(filename, root='css')
