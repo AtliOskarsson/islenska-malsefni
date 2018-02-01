@@ -6,11 +6,11 @@ from bottle import *
 def index():
     return template("index.tpl")
 
-@route("/")
+@route("/generic")
 def generic():
     return template("generic.tpl")
 
-@route("/")
+@route("/elements")
 def elements():
     return template("elements.tpl")
 
