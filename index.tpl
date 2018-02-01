@@ -56,7 +56,7 @@
 									<a href="#" class="icon fa-vcard-o"><span class="label">Icon</span></a>
 									<h3>Feugiat consequat</h3>
 								</header>
-								<p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus.</p>
+								<p>When you're Morten.</p>
 							</div>
 						</section>
 						<section>
