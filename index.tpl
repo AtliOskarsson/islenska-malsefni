@@ -17,7 +17,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a class="logo" href="index.html">Industrious</a>
+				<a class="logo" href="/">Industrious</a>
 				<nav>
 					<a href="#menu">Menu</a>
 				</nav>
@@ -26,9 +26,9 @@
 		<!-- Nav -->
 			<nav id="menu">
 				<ul class="links">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="elements.html">Elements</a></li>
-					<li><a href="generic.html">Generic</a></li>
+					<li><a href="/">Home</a></li>
+					<li><a href="elements">Elements</a></li>
+					<li><a href="generic">Generic</a></li>
 				</ul>
 			</nav>
 
