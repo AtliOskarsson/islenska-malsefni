@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Generic Page - Industrious by TEMPLATED</title>
+		<title>Málstefna</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="description" content="" />
@@ -27,7 +27,6 @@
 			<nav id="menu">
 				<ul class="links">
 					<li><a href="/">Home</a></li>
-					<li><a href="elements">Elements</a></li>
 					<li><a href="generic">Generic</a></li>
 				</ul>
 			</nav>
@@ -44,12 +43,12 @@
 						<header>
 							<h2>Feugiat consequat</h2>
 						</header>
-						<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Magna et cursus lorem faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod tempus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac sed amet praesent. Nunc lacinia ante nunc ac gravida lorem ipsum dolor sit amet dolor feugiat consequat. </p>
-						<p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Magna et cursus lorem faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod tempus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac sed amet praesent. Nunc lacinia ante nunc ac gravida lorem ipsum dolor sit amet dolor feugiat consequat. </p>
+						<p>Tækniskólinn ætlar að kenna öll fög á ensku því það er miklu meira efni til á ensku og miklu fleiri innflytjendur skilja ensku en íslensku og er þá léttara fyrir þá að mennta sig og koma sér á vinnumarkaðinn aftur. </p>
+						<p>En á móti allri þessari ensku verður þá kend tvisvar sinnum meiri íslenska til að koma veg fyrir að hún glatist.</p>
 						<hr />
 						<h3>Magna odio tempus commodo</h3>
-						<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-						<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum dolor sit amet nullam.</p>
+						<p>Tækniskólinn ætlar að hætta að nota pappír og verður öll verkefi unnin og skilað rafrænt, allar bækur verða aðgengilegar rafrænt og ef einnhver verður vís um að nota pappír inná skólalóðinni verður honum vísaðu úr skólanum.</p>
+						<p>Nemendur mega sofa á millitíma í mínútu  ef þeir hafa ekki séð sér fært að gera það heima hjá sér áður en þeir þurftu að mæta í skólann. Svo verður boðið uppá net kennslu þar sem allir tímar verða í beinni útsendingu á Innu. og er þá frjáls mæting í alla tíma</p>
 					</div>
 				</div>
 			</section>

@@ -10,10 +10,6 @@ def index():
 def generic():
     return template("generic.tpl")
 
-@route("/elements")
-def elements():
-    return template("elements.tpl")
-
 @route('/css/<filename:re:.*\.css>')
 def send_css(filename):
     return static_file(filename, root='css')

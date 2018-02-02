@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Industrious by TEMPLATED</title>
+		<title>Málstefna</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="description" content="" />
@@ -27,7 +27,6 @@
 			<nav id="menu">
 				<ul class="links">
 					<li><a href="/">Home</a></li>
-					<li><a href="elements">Elements</a></li>
 					<li><a href="generic">Generic</a></li>
 				</ul>
 			</nav>
