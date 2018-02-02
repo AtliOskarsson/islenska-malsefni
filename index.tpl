@@ -38,7 +38,7 @@
 					<p>A responsive business oriented template with a video background<br />
 					designed by <a href="https://templated.co/">TEMPLATED</a> and released under the Creative Commons License.</p>
 				</div>
-				<video autoplay loop muted playsinline src="images/vids.mp4"></video>
+				<video autoplay loop muted playsinline src="images/tenor.gif"></video>
 			</section>
 
 		<!-- Highlights -->
